@@ -19,17 +19,16 @@ Section    | Topic
 9          | Refactoring with Helpers and Private Methods
 10         | Routes and Resources
 11         | Authentication
-12         | Asset Pipeline
+12         | Asset Pipeline 
 13         | Popular Gems
 14         | Consuming APIs
 15         | Building APIs
 
 
 
-
-
 ## Breaking Your Unit Down into Lessons
-Let’s take a closer look at the unit. What are the specific things  students need to be able to do at the end of a unit? And what’s your plan for how they should get there? In other words, what are the actions, skills, and knowledge that they need? Wherever possible, focus on the actions that students are taking and not the knowledge itself. Always remember that learning is about doing, and not about content.
+
+Let’s take a closer look at the unit. What are the specific things  students need to be able to do at the end of a unit? And what’s your plan for how they should get there? In other words, what are the actions, skills, and knowledge that they need? Wherever possible, focus on the actions that students are taking and not the knowledge itself. Many times that might come down to a particularly large lab that you would want them to do that covers these concepts. Always remember that learning is about doing, and not about content.
 
 For each of your units, list these down in the sequential order in which they should be covered. 
 
@@ -37,7 +36,7 @@ Congratulations again! You now have a rough outline of the lessons that your uni
 
 Units can also vary in length. We don’t have a standard for how many lessons belong in a unit since we understand that some units take less time to cover while others might be more difficult and need more lessons devoted to them. 
 
-Also remember that when we talk about lessons, we mean both Readmes and Labs. Our typical flow is that every Readme should immediately be followed by a Coding Lab so that a student can immediately apply the skills they’ve just learned. Towards the end of each unit, we also also want to have more difficult labs that encompass multiple concepts (some of which can come from previous units) and require more of students.
+Also remember that when we talk about lessons, we mean both Readmes and Labs. Our typical flow is that every Readme should immediately be followed by a Lab so that a student can immediately apply the skills they’ve just learned. Towards the end of each unit, we also also want to have more difficult labs that encompass multiple concepts (some of which can come from previous units) and require more of students.
 
 Rework your list of lessons from above to include the breakdown of Readmes and Labs in your unit.
 
@@ -61,7 +60,7 @@ Lab        | Displaying Has Many Through Lab
 Readme     | Has Many Through in Forms
 Lab        | Has Many Through in Forms Lab
 Lab        | Rails Blog Complex Nested Forms
-Lab        | Rails Blog Assications and Validations Lab
+Lab        | Rails Blog Assocations and Validations Lab
 Lab        | Rails Pollywog Ranch Lab
 
 
